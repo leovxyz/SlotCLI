@@ -1,5 +1,3 @@
-# SlotCLI Architecture
-
 ## Game Flow
 
 1. Initialize game
