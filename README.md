@@ -1,6 +1,6 @@
 # SlotCLI
 
-A command-line interface slot machine game implemented in JavaScript.
+A command-line interface slot machine game implemented in JavaScript using Node.js.
 
 ## Description
 
